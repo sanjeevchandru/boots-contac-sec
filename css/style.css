@@ -1,0 +1,23 @@
+*{
+    padding:0;
+    margin:0;
+    box-sizing:border-box;
+}
+
+li{
+    list-style-type: none;
+}
+.title-row p{
+    font-size: 14px;
+}
+.underline{
+    height: 4px;
+}
+.contac-icon i{
+    border:3px dotted #f8c008;
+
+}
+.contac-btn:hover{
+    filter: opacity(85%);
+    transition: all 0.5s ease;
+}
